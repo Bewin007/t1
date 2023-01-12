@@ -1,0 +1,4 @@
+BG1 - rock wrens, barbets, Muscicapidae
+BG2 - fire finchs, pigeons, dodos, rollers
+BG3 - Falcons, Loons, Cranes, Cuckoos, Turkeys
+BG4 - Kiwis, Hombillss, Humming birds, Oil birds
